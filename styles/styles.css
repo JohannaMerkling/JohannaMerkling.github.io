@@ -7,6 +7,7 @@ body {
     background-size: cover;
     text-align: center;
     padding: 36px;
+    text-shadow: 5px 5px 5px black
 }
 
 /* Page */
@@ -38,16 +39,18 @@ body {
     box-sizing:border-box
 }
 h1{
-    color:#8f8f8f;
+    color:thistle;
     font-size:50px;
     margin-top: 0;
-    margin-bottom: 0
+    margin-bottom: 0;
+    font-family: 'Boogaloo', cursive;
     
 }
 h2{
     font-size:20px;
     color:lightgray;
     margin-top: 1px;
+    font-family: 'Boogaloo', cursive;
     
 
 }
